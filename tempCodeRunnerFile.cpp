@@ -1,0 +1,1 @@
+ cout.precision(20);

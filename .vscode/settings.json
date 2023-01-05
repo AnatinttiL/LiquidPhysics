@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "istream": "cpp",
+        "string": "cpp",
+        "xiosbase": "cpp",
+        "ios": "cpp",
+        "thread": "cpp",
+        "chrono": "cpp",
+        "iterator": "cpp",
+        "xutility": "cpp",
+        "cmath": "cpp",
+        "vector": "cpp"
+    },
+    "code-runner.runInTerminal": true
+}
